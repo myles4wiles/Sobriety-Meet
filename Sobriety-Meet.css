@@ -1,0 +1,54 @@
+img {
+    padding-top: 100px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#logo {
+    background-color: white;
+}
+
+.navbar {
+    background-color: white;
+    text-align: center;
+  
+}
+
+.nav {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+
+}
+
+a {
+    color:black;
+    font-size: 18pt;
+}
+
+p {
+    color: black;
+    margin-left: 5.5%;
+    margin-right:5.5%;
+    padding: 50px;
+}
+
+
+.flex-column {
+    margin-left: 10px;
+}
+
+.text-center {
+    justify-content: center;
+}
+
+
+
+.bottomFooter {
+    background-color: white;
+    padding: 70px;
+    padding-top: 200px;
+}
