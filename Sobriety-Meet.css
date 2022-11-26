@@ -1,10 +1,11 @@
 img {
-    padding-top: 100px;
-    padding-bottom: 40px;
-    padding-left: 100px;
-    padding-right: 100px;
-    margin-left: 80px;
-    margin-right: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-left: 199px;
+    border-right:  199px;
+    
 }
 
 #logo {
@@ -48,7 +49,15 @@ p {
 
 
 .bottomFooter {
-    background-color: white;
-    padding: 70px;
-    padding-top: 200px;
+    background-color: plum;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+#splashScreen,#mainScreen,#favorites,#map,#crisis {
+    margin-left: 595px;
+    margin-right: 595px;
+    display: flex;
+
 }
